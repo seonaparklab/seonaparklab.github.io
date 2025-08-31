@@ -38,10 +38,10 @@ We welcome applicants with their own research ideas in these or closely related 
 
 ### Program Benefits
 
-✅ World-class training comparable to leading institutions
-✅ Interdisciplinary mentorship from HKUST(GZ)'s research thrusts
-✅ Career pathways in academia, policy think tanks, and green industries
-✅ Global network in the vibrant atmosphere of Southern China
+- World-class training comparable to leading institutions
+- Interdisciplinary mentorship from HKUST(GZ)'s research thrusts
+- Career pathways in academia, policy think tanks, and green industries
+- Global network in the vibrant atmosphere of Southern China
 
 ### Application Process
 
