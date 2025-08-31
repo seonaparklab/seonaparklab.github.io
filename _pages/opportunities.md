@@ -71,9 +71,9 @@ The Doctor of Philosophy in Carbon Neutrality and Climate Change (PhD in CNCC) a
 - Professional readiness for leadership roles in academia, research institutes, and industry
 **Our program emphasizes**:
 
-🔬 Cutting-edge research on carbon neutrality challenges
-🌍 Interdisciplinary approaches bridging policy, technology, and social systems
-💡 Innovative project-based training aligned with global standards
+- Cutting-edge research on carbon neutrality challenges
+- Interdisciplinary approaches bridging policy, technology, and social systems
+- Innovative project-based training aligned with global standards
 
 Graduates will emerge as pioneers capable of driving systemic change in the low-carbon economy.
 
