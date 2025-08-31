@@ -18,8 +18,13 @@ main:
   - title: "Group"
     url: /members/
 
+  - title: "Opportunities"
+    url: /opportunities/
+
   - title: "News"
     url: /news/
 
   - title: "Contact"
     url: /contact/
+
+
