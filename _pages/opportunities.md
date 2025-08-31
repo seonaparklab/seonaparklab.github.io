@@ -38,10 +38,10 @@ We welcome applicants with their own research ideas in these or closely related 
 
 ### Program Benefits
 
-- World-class training comparable to leading institutions
-- Interdisciplinary mentorship from HKUST(GZ)'s research thrusts
-- Career pathways in academia, policy think tanks, and green industries
-- Global network in the vibrant atmosphere of Southern China
+✅ World-class training comparable to leading institutions  
+✅ Interdisciplinary mentorship from HKUST(GZ)'s research thrusts  
+✅ Career pathways in academia, policy think tanks, and green industries  
+✅ Global network in the vibrant atmosphere of Southern China  
 
 ### Application Process
 
@@ -69,11 +69,12 @@ The Doctor of Philosophy in Carbon Neutrality and Climate Change (PhD in CNCC) a
 - State-of-the-art knowledge at the intersection of climate science, policy, finance, and technology
 - Advanced research capabilities to develop sustainable solutions for energy transitions
 - Professional readiness for leadership roles in academia, research institutes, and industry
+
 **Our program emphasizes**:
 
-- Cutting-edge research on carbon neutrality challenges
-- Interdisciplinary approaches bridging policy, technology, and social systems
-- Innovative project-based training aligned with global standards
+🔬 Cutting-edge research on carbon neutrality challenges  
+🌍 Interdisciplinary approaches bridging policy, technology, and social systems  
+💡 Innovative project-based training aligned with global standards  
 
 Graduates will emerge as pioneers capable of driving systemic change in the low-carbon economy.
 
