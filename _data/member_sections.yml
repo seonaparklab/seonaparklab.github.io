@@ -1,3 +1,6 @@
+- field: supervisor
+  title: Supervisor
+  prose: true
 - field: education
   title: Education
 - field: research_projects
@@ -6,8 +9,8 @@
   title: Ongoing projects
 - field: research_experience
   title: Work & Research Experience
-- field: work_experience
-  title: Work Experience
+- field: professional_experience
+  title: Professional Experience
   prose: true
 - field: conference_presentations
   title: Conference Presentations
