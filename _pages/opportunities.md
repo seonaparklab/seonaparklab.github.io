@@ -1,12 +1,12 @@
 ---
-title: ""
+title: "Opportunities"
 permalink: /opportunities/
 ---
 
-# PhD Scholarship opportunities on Energy Justice
+## PhD Scholarship opportunities on Energy Justice
 ---
 
-We are looking for an international PhD candidate interested in conducting impactful PhD research. A PhD position is available, which is based Climate Action and Resilience for Equity lab (CARE lab) at the Hong Kong University of Science and Technology (Guangzhou), China. The CARE lab is a newly founded lab by Assistant Professor Seona Park ([ORCID](https://orcid.org/0000-0003-1696-5571), [HKUST(GZ) webpage](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/PARK-Seona/seonapark)). Current topicss in the CARE lab are (1) Energy justice and social acceptance of renewable energy (2) Climate communication strategy and (3) Integrated climate resilience policy. Please do circulate to anyone you think would be interested in and don’t hesitate to get in touch with me directly.
+We are looking for an international PhD candidate interested in conducting impactful PhD research. A PhD position is available, which is based Climate Action and Resilience for Equity lab (CARE lab) at the Hong Kong University of Science and Technology (Guangzhou), China. The CARE lab is a newly founded lab by Assistant Professor Seona Park ([ORCID](https://orcid.org/0000-0003-1696-5571), [HKUST(GZ) webpage](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/PARK-Seona/seonapark)). Current topics in the CARE lab are (1) Energy justice and social acceptance of renewable energy (2) Climate communication strategy and (3) Integrated climate resilience policy. Please do circulate to anyone you think would be interested in and don’t hesitate to get in touch with me directly.
 
 ## Research Focus of CARE lab
 
@@ -46,7 +46,7 @@ We welcome applicants with their own research ideas in these or closely related 
 ### Application Process
 
 - Deadline: Early application is preferred
-- Submit to: seonapark@hkust-gz.edu.cn 
+- Submit to: [seonapark@hkust-gz.edu.cn](mailto:seonapark@hkust-gz.edu.cn)
 - Subject: "PhD CNCC Application - [Your Name]"
 
 ### Required Documents:
@@ -57,8 +57,6 @@ We welcome applicants with their own research ideas in these or closely related 
 4.	Writing sample (e.g., thesis chapter)
 5.	Research Proposal (2-year load individual dissertation proposal)
 6.	Two reference contacts
-
-### Application Process: 
 
 Applications are accepted on a rolling basis starting in August 2025. The application window is expected to close in October 15 2025, but may close earlier if outstanding candidates are identified before the positions are filled.
 
@@ -83,7 +81,7 @@ Graduates will emerge as pioneers capable of driving systemic change in the low-
 
 - Program/Degree: PhD in Carbon Neutrality and Climate Change (CNCC)
 - Focus Area: Energy Justice & Just Transition Policies
-- ected intake: Spring 2025/26 or Fall 2026/27
+- Expected intake: Spring 2025/26 or Fall 2026/27
 - Duration: 4 years (3 years for MPhil holders)
 
 **Funding**:
@@ -94,5 +92,5 @@ Graduates will emerge as pioneers capable of driving systemic change in the low-
 
 **Contact**:
 
-- Prof. Seona Park (seonapark@hkust-gz.edu.cn)
+- Prof. Seona Park ([seonapark@hkust-gz.edu.cn](mailto:seonapark@hkust-gz.edu.cn))
 - Program Website: https://fytgs.hkust-gz.edu.cn/programs/2025-26/society-hub-2025-26/carbon-neutrality-and-climate-change 

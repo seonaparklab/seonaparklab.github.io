@@ -2,9 +2,6 @@
 permalink: /
 title: "Welcome to Professor Seona Park and CARE lab Homepage"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 

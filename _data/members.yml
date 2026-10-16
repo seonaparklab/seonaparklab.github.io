@@ -1,121 +1,151 @@
+---
 - name: Ying Cao
   role: Postdoctoral
-  photo: /images/yingcao.png
+  photo: "/images/yingcao.png"
   research_interests:
-    - Science and technology studies (STS)
-    - AI for climate change
-    - Mixed-method research
-
+  - STS
+  - AI and society
   education:
-    - PhD, Doctor of Philosophy in Electronic and Computer, 2024 Engineering, The Hong Kong University of Science and Technology
-    - BE, Bachelor of Engineering in Information Engineering, University of Science and Technology of China, 2018
-    - BBA, Bachelor of Business Administration (dual degree), University of Science and Technology of China, 2018
-
-  research_experience:
-    - Research on disciplinary gap and science-policy gap
-    - Research on online resource allocation algorithm design
-
-  awards:
-    - Research on disciplinary gap and science-policy gap
-    - Research on online resource allocation algorithm design
-
+  - PhD, Doctor of Philosophy in Electronic and Computer, 2024 Engineering, The Hong
+    Kong University of Science and Technology
+  - BE, Bachelor of Engineering in Information Engineering, University of Science
+    and Technology of China, 2018
+  - BBA, Bachelor of Business Administration (dual degree), University of Science
+    and Technology of China, 2018
   contact:
-    - yingc@hkust-gz.edu.cn
-
-
+  - yingc@hkust-gz.edu.cn
+  research_projects:
+  - Materiality of artificial intelligence
+  conference_presentations:
+  - AP-PPN 2025
+  - ISESEA 2025
 - name: Jing Yu
   role: Ph.D. student
-  photo: /images/jingyu.png
+  photo: "/images/jingyu.png"
   research_interests:
-    - Climate Communication
-    - Coastal Community Engagement
-    - Marine Ecosystem
-    - Climate Policy
-
+  - Climate Communication
+  - Coastal Community Engagement
+  - Marine Ecosystem
+  - Climate Policy
   education:
-    - MPhil, IPE, HKUST-GZ, 2024
-    - MA, Applied Linguistics, University of Oregon, 2020
-    - BA, Linguistics, University of Oregon, 2019
+  - MPhil, IPE, HKUST-GZ, 2024
+  - MA, Applied Linguistics, University of Oregon, 2020
+  - BA, Linguistics, University of Oregon, 2019
   research_experience:
-    - Qualitative Research
-    - Red Bird MPhil research experience on LCA related subjects
-    - Field studies in water sampling and testing with EOAS
-    - Human subject experiment in sociolinguistics
-
+  - Qualitative Research
+  - Red Bird MPhil research experience on LCA related subjects
+  - Field studies in water sampling and testing with EOAS
+  - Human subject experiment in sociolinguistics
   awards:
-    - 2025 UCSC Blue Pioneer Accelerator Program winner
-    - 2023 Tencent Fund "Tech for Good Fund" awardee
-    - 2023 Guangzhou Women's Federation "Her" Welfare Fund awardee
-
+  - 2025 UCSC Blue Pioneer Accelerator Program winner
+  - 2023 Tencent Fund "Tech for Good Fund" awardee
+  - 2023 Guangzhou Women's Federation "Her" Welfare Fund awardee
 - name: Zhuotao Lu
   role: Ph.D. student
-  photo: /images/zhuotaolu.png
+  photo: "/images/members/Zhuotao_Lu_profile.jpg"
   research_interests:
-    - Early Warning and  Socioeconomic Activities
-    - Climate Adaptation and Climate Policy
-    - Climate, Energy, and Environmental Economics
-
-
+  - Climate adaptation behavior of different actors
+  - Media narratives of renewable energy and extreme weather
+  - Climate, energy, and ecological economics
+  - The Global South, the Third World (especially historical issues related to the
+    Middle East and Africa)
   education:
-    - MSc, Master of Science in ESG and Sustainability, The Hong Kong Polytechnic University
-    - BA, Bachelor of International Economics and Trade, Guangdong University of Finance and Economics
-
-  research_experience:
-    - Research on Climate Policy and Corporate Greenwashing in ESG Practices
-    - Research on Financing patterns of the Photovoltaic Industry
-
+  - MSc, Master of Science in ESG and Sustainability, The Hong Kong Polytechnic University
+  - BA, Bachelor of International Economics and Trade, Guangdong University of Finance
+    and Economics
   awards:
-    - 2021 National scholarship
-    - 2024 Best Research-based Capstone Project in School of Accounting and Finance, The Hong Kong Polytechnic University
-
+  - 2021 National scholarship
+  - 2024 Best Research-based Capstone Project in School of Accounting and Finance,
+    The Hong Kong Polytechnic University
   contact:
-    - zlu526@connect.hkust-gz.edu.cn
-
-
+  - zlu526@connect.hkust-gz.edu.cn
+  ongoing_projects:
+  - Extreme weather, platform governance, and food delivery riders
+  - Emotional attitudes toward wind power in China
+  - The government’s typhoon forecasts and warning signals
+  conference_participation:
+  - 11th International Conference on Low Carbon Asia (ICLCA 2025)
+  - 10th International Symposium on Environmental Sociology in East Asia (ISESEA-10)
 - name: Yumeng Miao
   role: Ph.D. student
-  photo: /images/yumengmiao.png
+  photo: "/images/yumengmiao.png"
   research_interests:
-    - Just transition
-    - Environmental sociology
-    - Cultural Sustainability
-
+  - Just transition
+  - Environmental sociology
+  - Cultural Sustainability
   education:
-    - MSocSci in Corporate Environmental Management (now SLGP), The University of Hong Kong, 2020
-    - MA in Social Research (Social Policy), University of Birmingham, 2018
-    - BA in Sociology, Tunghai University, 2017
-
+  - MSocSci in Corporate Environmental Management (now SLGP), The University of Hong
+    Kong, 2020
+  - MA in Social Research (Social Policy), University of Birmingham, 2018
+  - BA in Sociology, Tunghai University, 2017
   research_experience:
-    - Research Assistant, The Institute for International Affairs, The Chinese University of Hong Kong (Shenzhen), 2024： Environmental and social governance, technological innovation.
-    - Researcher, Longhua District Development Research Institute, Shenzhen, 2021-2022：Sustainable cities, low-carbon development,  and demographic analysis.
-
+  - Research Assistant, The Institute for International Affairs, The Chinese University
+    of Hong Kong (Shenzhen), 2024： Environmental and social governance, technological
+    innovation.
+  - Researcher, Longhua District Development Research Institute, Shenzhen, 2021-2022：Sustainable
+    cities, low-carbon development,  and demographic analysis.
   awards:
-    - Excellent Research Project, Longhua District Development Research Institute, Shenzhen, 2022
-    - First Prize, Longhua District People’s Government Speech Competition, Shenzhen, 2021
-    - Honor Student of the academic year, 2016-2017
-
+  - Excellent Research Project, Longhua District Development Research Institute, Shenzhen,
+    2022
+  - First Prize, Longhua District People’s Government Speech Competition, Shenzhen,
+    2021
+  - Honor Student of the academic year, 2016-2017
   contact:
-    - ymiao221@connect.hkust-gz.edu.cn
-
+  - ymiao221@connect.hkust-gz.edu.cn
+- name: François BEGA
+  role: Ph.D. student
+  photo: "/images/members/Francois_Bega_profile.jpg"
+  research_interests:
+  - Energy policy
+  - Just energy transition
+  - Social acceptance of renewables
+  - Socio-economic and environmental impacts of power projects
+  education:
+  - MA, Master of International Management, University of Lyon, France
+  - BA, Bachelor of Management, University of Lyon, France
+  research_experience:
+  - 'Visiting Researcher, Environmental Planning Institute, Graduate School of Environmental
+    Studies, Seoul National University, Korea: China’s Belt & Road Initiative power
+    projects'
+  - 'Researcher, Magellan Research Center, IAE School of Management, University of
+    Lyon, France: European Manufacturing Survey'
+  awards:
+  - National Scholarship
+  - China Scholarship Council (CSC)
+  contact:
+  - fbega993@connect.hkust-gz.edu.cn
+- name: Nan Wang
+  role: Ph.D. student
+  role_detail: First-Year Part-Time Ph.D. Student
+  photo: "/images/members/Nan_Wang_profile.jpg"
+  research_interests:
+  - Corporate Social Responsibility (CSR) and Sustainable Development in Technology-Based
+    Small and Medium-Sized Enterprises (SMEs)
+  - Climate Communication
+  - Cultural Sustainability
+  education:
+  - Master of Arts in Arts Administration and Cultural Policy, Goldsmiths, University
+    of London
+  - Master of Social Science in Corporate Communication, The Chinese University of
+    Hong Kong
+  work_experience: With more than a decade of professional experience, I have worked
+    for a multinational enterprise in China and a national entrepreneurship support
+    organization. I currently work at a high-tech company in Guangzhou, where I am
+    responsible for marketing and branding.
 - name: Li Yifei
   role: Mphil
-  photo: /images/liyifei.jpg
+  photo: "/images/liyifei.jpg"
   research_interests:
-    - Enterprise Environmental Behavior
-    - Climate, Energy, and Environmental Economics
-    - Social Inequality Under Climate Change
-
-
+  - Enterprise Environmental Behavior
+  - Climate, Energy, and Environmental Economics
+  - Social Inequality Under Climate Change
   education:
-    - BA, Bachelor of Economics, Henan University 
-
+  - BA, Bachelor of Economics, Henan University
   research_experience:
-    - Research on the social impacts brought about by Household Energy Transition
-    - Research on the Pollution Transfer Behavior of Enterprises
-
+  - Research on the social impacts brought about by Household Energy Transition
+  - Research on the Pollution Transfer Behavior of Enterprises
   awards:
-    - 2024 National scholarship
-    - Outstanding Campers in Peking University-Yale University Summer institute
-
+  - 2024 National scholarship
+  - Outstanding Campers in Peking University-Yale University Summer institute
   contact:
-    - yli924@connect.hkust-gz.edu.cn
+  - yli924@connect.hkust-gz.edu.cn

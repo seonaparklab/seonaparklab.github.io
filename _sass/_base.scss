@@ -1,8 +1,6 @@
-/* ==========================================================================
-   BASE ELEMENTS
-   ========================================================================== */
+
 html {
-  /* sticky footer fix */
+  
   position: relative;
   min-height: 100%;
 }
@@ -16,7 +14,7 @@ body {
   line-height: 1.5;
 
   &.overflow--hidden {
-    /* when primary navigation is visible, the content in the background won't scroll */
+    
     overflow: hidden;
   }
 }
@@ -74,14 +72,10 @@ del a {
   color: inherit;
 }
 
-/* reduce orphans and widows when printing */
-
 p, pre, blockquote, ul, ol, dl, figure, table, fieldset {
   orphans: 3;
   widows: 3;
 }
-
-/* abbreviations */
 
 abbr[title],
 abbr[data-original-title] {
@@ -89,8 +83,6 @@ abbr[data-original-title] {
   cursor: help;
   border-bottom: 1px dotted $text-color;
 }
-
-/* blockquotes */
 
 blockquote {
   margin: 2em 1em 2em 0;
@@ -109,9 +101,9 @@ blockquote {
   }
 }
 
-/* links */
-
 a {
+  overflow-wrap: anywhere;
+
   &:focus {
     @extend %tab-focus;
   }
@@ -122,14 +114,12 @@ a {
   }
 }
 
-/* code */
-
 tt, code, kbd, samp, pre {
   font-family: $monospace;
 }
 
 pre {
-  overflow-x: auto; /* add scrollbars to wide code blocks*/
+  overflow-x: auto; 
 }
 
 p > code,
@@ -147,11 +137,9 @@ td > code {
 
   &:before, &:after {
     letter-spacing: -0.2em;
-    content: "\00a0"; /* non-breaking space*/
+    content: "\00a0"; 
   }
 }
-
-/* horizontal rule */
 
 hr {
   display: block;
@@ -159,8 +147,6 @@ hr {
   border: 0;
   border-top: 1px solid $border-color;
 }
-
-/* lists */
 
 ul li,
 ol li {
@@ -171,12 +157,6 @@ li ul,
 li ol {
   margin-top: 0.5em;
 }
-
-/*
-   Media and embeds
-   ========================================================================== */
-
-/* Figures and images */
 
 figure {
   display: -webkit-box;
@@ -232,8 +212,6 @@ figure {
   }
 }
 
-/* Figure captions */
-
 figcaption {
   margin-bottom: 0.5em;
   color: mix(#fff, $text-color, 25%);
@@ -254,30 +232,9 @@ figcaption {
   }
 }
 
-
-/* Fix IE9 SVG bug */
-
 svg:not(:root) {
   overflow: hidden;
 }
-
-
-/*
-   Navigation lists
-   ========================================================================== */
-
-/**
- * Removes margins, padding, and bullet points from navigation lists
- *
- * Example usage:
- * <nav>
- *    <ul>
- *      <li><a href="#link-1">Link 1</a></li>
- *      <li><a href="#link-2">Link 2</a></li>
- *      <li><a href="#link-3">Link 3</a></li>
- *    </ul>
- *  </nav>
- */
 
 nav {
   ul {
@@ -293,7 +250,7 @@ nav {
     text-decoration: none;
   }
 
-  /* override white-space for nested lists */
+  
   ul li,
   ol li {
     margin-bottom: 0;
@@ -304,10 +261,6 @@ nav {
     margin-top: 0;
   }
 }
-
-/*
-   Global animation transition
-   ========================================================================== */
 
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, form button, input[type="submit"], .btn, .highlight, .archive__item-teaser {
   -webkit-transition: $global-transition;

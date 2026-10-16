@@ -5,10 +5,10 @@ permalink: /news/
 ---
 
 <style>
-/* ====== 新闻卡片样式 ====== */
+
 .news-container {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(min(220px, 100%), 1fr));
   gap: 15px;
   max-width: 1000px;
   margin: 0 auto;
@@ -28,8 +28,8 @@ permalink: /news/
 
 .news-card img {
   width: 100%;
-  height: 120px;
-  object-fit: cover;
+  height: auto;
+  display: block;
 }
 
 .news-card h3 {
@@ -46,12 +46,13 @@ permalink: /news/
 </style>
 
 <div class="news-container">
-  {% for news in site.data.news %}
+  {% assign news_items = site.data.news | sort: "sort_date" | reverse %}
+  {% for news in news_items %}
   <div class="news-card">
-    <a href="{{ news.url }}">
-      <img src="{{ news.image }}" alt="{{ news.title }}">
+    <a href="{{ news.url | relative_url }}">
+      <img src="{{ news.image | relative_url }}" alt="{{ news.image_alt | default: news.title | escape }}" loading="lazy">
       <h3>{{ news.title }}</h3>
-      <p>{{ news.date }}</p>
+      <p><time datetime="{{ news.sort_date }}">{{ news.date }}</time></p>
     </a>
   </div>
   {% endfor %}

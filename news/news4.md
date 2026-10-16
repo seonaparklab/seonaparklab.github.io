@@ -10,15 +10,16 @@ layout: single
       CNCC OWF Field Trip (Organizing)
     </h2>
     </a>
+    <p><time datetime="2024-12-06">December 6–8, 2024</time></p>
   </div>
 
-  <!-- 添加图片的 div -->
+  
   <div style="margin-top: 30px; text-align: center;">
-    <img src="/images/news/4-1.png" alt="Society Hub Open Day" style="max-width: 100%; height: auto; border-radius: 8px;">
+    <img src="/images/news/4-1.png" alt="CNCC OWF Field Trip" style="max-width: 100%; height: auto; border-radius: 8px;">
   </div>
 
   <div style="margin-top: 30px; text-align: center;">
-    <img src="/images/news/4-2.png" alt="Society Hub Open Day" style="max-width: 100%; height: auto; border-radius: 8px;">
+    <img src="/images/news/4-2.png" alt="CNCC OWF Field Trip" style="max-width: 100%; height: auto; border-radius: 8px;">
   </div>
 
 </div>
