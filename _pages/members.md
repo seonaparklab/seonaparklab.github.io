@@ -11,7 +11,9 @@ author_profile: true
     <div class="member-left">
       <p class="member-role">{{ member.role_detail | default: member.role | escape }}</p>
       <h2 id="member-{{ forloop.index }}">{{ member.name | escape }}</h2>
+      {% if member.photo %}
       <img src="{{ member.photo | relative_url }}" alt="{{ member.name | escape }}" width="160" height="160" loading="lazy">
+      {% endif %}
       {% if member.research_interests %}
       <h3>Research Interests</h3>
       <ul>
