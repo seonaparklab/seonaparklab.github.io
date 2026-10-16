@@ -4,7 +4,8 @@ title: "About"
 permalink: /about/
 author_profile: true
 redirect_from:
-  - /resume
+  - /about.html
+  - /research/
 ---
 
 {% include base_path %}

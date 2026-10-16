@@ -1,0 +1,17 @@
+- field: education
+  title: Education
+- field: research_projects
+  title: Research Project
+- field: ongoing_projects
+  title: Ongoing projects
+- field: research_experience
+  title: Work & Research Experience
+- field: work_experience
+  title: Work Experience
+  prose: true
+- field: conference_presentations
+  title: Conference Presentations
+- field: conference_participation
+  title: Conference Participation
+- field: awards
+  title: Awards
