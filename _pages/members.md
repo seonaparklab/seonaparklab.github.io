@@ -28,7 +28,7 @@ author_profile: true
         {% assign entries = member[section.field] %}
         {% if entries %}
         <section>
-          <h3>{{ section.title | escape }}</h3>
+          <h3>{{ member.section_titles[section.field] | default: section.title | escape }}</h3>
           {% if section.prose %}
           <p>{{ entries | escape }}</p>
           {% else %}
