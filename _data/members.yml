@@ -112,6 +112,7 @@
 - name: Yixuan Li
   role: Ph.D. Student
   photo: "/images/members/Yixuan_Li_profile.png"
+  photo_position: center 60%
   research_interests:
   - Urban expansion and land-use change simulation
   - Multi-objective optimization of distributed and integrated energy systems
