@@ -90,20 +90,24 @@
 - name: François BEGA
   role: Ph.D. student
   photo: "/images/members/Francois_Bega_profile.jpg"
+  section_titles:
+    conference_presentations: Conference Presentation
   research_interests:
   - Energy policy
   - Just energy transition
   - Social acceptance of renewables
   - Socio-economic and environmental impacts of power projects
   education:
-  - MA, Master of International Management, University of Lyon, France
-  - BA, Bachelor of Management, University of Lyon, France
+  - Master of International Management, University of Lyon, France
+  - Bachelor of Management, University of Lyon, France
   research_experience:
   - 'Visiting Researcher, Environmental Planning Institute, Graduate School of Environmental
-    Studies, Seoul National University, Korea: China’s Belt & Road Initiative power
+    Studies, Seoul National University, Korea: China’s international power
     projects'
   - 'Researcher, Magellan Research Center, IAE School of Management, University of
     Lyon, France: European Manufacturing Survey'
+  conference_presentations:
+  - International Sustainability Transitions (IST) 2025
   awards:
   - National Scholarship
   - China Scholarship Council (CSC)
