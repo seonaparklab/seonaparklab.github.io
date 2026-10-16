@@ -18,3 +18,5 @@
   title: Conference Participation
 - field: awards
   title: Awards
+- field: selected_awards
+  title: Selected Awards
